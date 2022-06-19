@@ -1,1 +1,1 @@
-Algo
+ENTRYPOINT ["/entrypoint.sh"]
